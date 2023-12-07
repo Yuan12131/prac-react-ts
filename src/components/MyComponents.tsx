@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styles/MyComponent.css';
 
 interface MyComponentProps {
   message: string;
